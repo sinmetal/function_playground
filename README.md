@@ -1,0 +1,2 @@
+# function_playground
+Google Cloud Functionで認証済みPushを受け取れるかを試す
